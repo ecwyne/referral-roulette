@@ -1,0 +1,12 @@
+{
+    "name": "referral-roulette",
+    "version": 2,
+    "alias": ["referral-roulette.now.sh"],
+    "regions": ["sfo1", "iad1"],
+    "builds": [
+        {
+            "src": "package.json",
+            "use": "@now/next"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "referral-roulette",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "next",
+        "build": "next build"
+    },
+    "dependencies": {
+        "@material-ui/core": "^4.4.3",
+        "@material-ui/styles": "^4.4.3",
+        "@types/lodash.sample": "^4.2.6",
+        "@types/node": "^12.7.8",
+        "@types/react": "^16.9.4",
+        "faunadb": "^2.8.1",
+        "isomorphic-unfetch": "^3.0.0",
+        "lodash.sample": "^4.2.1",
+        "next": "^9.0.7",
+        "react": "^16.10.1",
+        "react-dom": "^16.10.1",
+        "react-hook-form": "^3.23.17",
+        "react-use": "^12.2.2",
+        "typescript": "^3.6.3"
+    }
+}
